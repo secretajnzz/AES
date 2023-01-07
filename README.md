@@ -20,7 +20,7 @@ ARE has many features listed below!
    * Dirty money converts to cash
      * Customizable fee
      * Customizable locations
-   * Droppaable cash
+   * Droppable cash
    * Transferable bank money
 
 2. - [ ] Inventory
