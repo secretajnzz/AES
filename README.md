@@ -17,25 +17,25 @@ ARE has many features listed below!
      * Cash
      * Bank
      * Dirty Money
-   * Dirty money converts to cash
+   * - [ ] Dirty money converts to cash
      * Customizable fee
      * Customizable locations
-   * Droppable cash
-   * Transferable bank money
+   * - [ ] Droppable cash
+   * - [ ] Transferable bank money
 
 2. - [ ] Inventory
-   * Customizable items with different functions.
-   * Customizable item table
+   * - [ ] Customizable items with different functions.
+   * - [ ] Customizable item table
 
 3. - [ ] Vehicle System (NOT a chassis)
-   * Car dealership
+   * - [ ] Car dealership
       * Customizable locations
       * Customizable prices for vehicles
-   * Vehicle Garages
+   * - [ ] Vehicle Garages
       * Storing vehicles at specified garages
       * Taking vehicles from specified garages
       * Customizable fees
-   * Vehicle *spawning*
+   * - [ ] Vehicle *spawning*
       * Spawn purchased vehicles from ui menu (Like greenville)
       * Despawn vehicles
       * Etc...
