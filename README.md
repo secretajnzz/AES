@@ -12,11 +12,20 @@
 # Features
 ARE has many features listed below!
 
-1. Money system
+1. - [] Money system (25%)
    * Different types of money
      * Cash
      * Bank
      * Dirty Money
+   * Dirty money converts to cash
+     * Customizable fee
+     * Customizable locations
+   * Droppaable cash
+   * Transferable bank money
+
+2. Inventory
+   * Customizable items with different functions.
+   * Customizable item table
 
 
 
