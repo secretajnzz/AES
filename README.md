@@ -32,6 +32,8 @@ ARE has many features listed below!
       * Customizable locations
       * Customizable prices for vehicles
    * Vehicle Garages
-      * 
+      * Storing vehicles at specified garages
+      * Taking vehicles from specified garages
+      * Customizable fees
    * Vehicle *spawning*
       * 
