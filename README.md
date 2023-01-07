@@ -23,24 +23,15 @@ ARE has many features listed below!
    * Droppaable cash
    * Transferable bank money
 
-2. Inventory
+2. - [ ] Inventory
    * Customizable items with different functions.
    * Customizable item table
 
-
-
-# Todo
-
-# Messing around
-> LOl
-
-```
-local print "hi"
-```
-~~shut up~~
-
-- [x] ih
-- [ ] hi
-
-* hi
-
+3. - [ ] Vehicle System (NOT a chassis)
+   * Car dealership
+      * Customizable locations
+      * Customizable prices for vehicles
+   * Vehicle Garages
+      * 
+   * Vehicle *spawning*
+      * 
