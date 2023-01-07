@@ -1,4 +1,4 @@
-# AES
+# ARE
 (ARE) Advanced Roleplay Environment.
 
 ## Description
