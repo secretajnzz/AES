@@ -40,6 +40,7 @@ ARE has many features listed below!
       * Despawn vehicles
       * Etc...
 
-4. - [ ] Identity
-   * - [ ] Character names (50%)
-   * - [ ] Character ID's
+4. - [x] Identity
+   * - [x] Character names
+   * - [x] Character birth dates
+   * - [x] UI to submit player names
