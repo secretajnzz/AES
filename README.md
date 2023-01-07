@@ -39,3 +39,7 @@ ARE has many features listed below!
       * Spawn purchased vehicles from ui menu (Like greenville)
       * Despawn vehicles
       * Etc...
+
+4. - [ ] Identity
+   * Character names
+   * Character ID's
