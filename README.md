@@ -13,7 +13,7 @@
 ARE has many features listed below!
 
 1. - [ ] Money system (25%)
-   * Different types of money
+   * - [x] Different types of money
      * Cash
      * Bank
      * Dirty Money
