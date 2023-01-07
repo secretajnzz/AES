@@ -36,4 +36,6 @@ ARE has many features listed below!
       * Taking vehicles from specified garages
       * Customizable fees
    * Vehicle *spawning*
-      * 
+      * Spawn purchased vehicles from ui menu (Like greenville)
+      * Despawn vehicles
+      * Etc...
