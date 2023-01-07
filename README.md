@@ -41,5 +41,5 @@ ARE has many features listed below!
       * Etc...
 
 4. - [ ] Identity
-   * Character names
-   * Character ID's
+   * - [ ] Character names
+   * - [ ] Character ID's
