@@ -17,3 +17,6 @@ local print "hi"
 
 - [x] ih
 - [ ] hi
+
+* hi
+
