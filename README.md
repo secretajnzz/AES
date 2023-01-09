@@ -44,3 +44,4 @@ ARE has many features listed below!
    * - [x] Character names
    * - [x] Character birth dates
    * - [x] UI to submit player names
+   * - [x] Physical ID card
